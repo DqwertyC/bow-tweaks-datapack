@@ -1,0 +1,7 @@
+{
+  "values": [
+    "owner_finder:on_load",
+    "power_adder:on_load",
+    "precision_adder:on_load"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "values": ["owner_finder:on_tick", "precision_adder:on_tick"]
+}
